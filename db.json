@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "id": "60d07c81c8de163d662cef67",
+            "title": "Town hall",
+            "slug": "town-hall",
+            "description": "Main channel",
+            "type": "town hall",
+            "active": true,
+            "background": null,
+            "logo": null,
+            "createdAt": 1623925993835
+        },
+        {
+            "id": "60d07c81c8de163d662cef68",
+            "title": "Video tapestry",
+            "slug": "video-tapestry",
+            "description": "Channel with video clips",
+            "type": "video tapestry",
+            "active": true,
+            "background": null,
+            "logo": null,
+            "createdAt": 1623925993835
+        },
+        {
+            "id": "60d07c81c8de163d662cef69",
+            "title": "Fan",
+            "slug": "fan",
+            "description": "Fan channel",
+            "type": "fan",
+            "active": true,
+            "background": null,
+            "logo": null,
+            "createdAt": 1623925993835
+        },
+        {
+            "id": "60d07c81c8de163d662cef6a",
+            "title": "Squad",
+            "slug": "squad",
+            "description": "Squad channel",
+            "type": "squad",
+            "active": false,
+            "background": null,
+            "logo": null,
+            "createdAt": 1623925993835
+        },
+        {
+            "id": "60d07c81c8de163d662cef6c",
+            "title": "Gameday",
+            "slug": "gameday",
+            "description": "Gameday channel",
+            "type": "gameday",
+            "active": false,
+            "background": null,
+            "logo": null,
+            "createdAt": 1623925993835
+        },
+        {
+            "id": "60d07c81c8de163d662cef6b",
+            "title": "Live stream",
+            "slug": "live-stream",
+            "description": "Live stream channel",
+            "type": "live stream",
+            "active": false,
+            "background": null,
+            "logo": null,
+            "createdAt": 1623925993835
+        },
+        {
+            "id": "60d07c81c8de163d662cef6d",
+            "title": "Competition",
+            "slug": "competition",
+            "description": "Competition channel",
+            "type": "competition",
+            "active": false,
+            "background": null,
+            "logo": null,
+            "createdAt": 1623925993835
+        },
+        {
+            "id": "60d07c81c8de163d662cef6e",
+            "title": "Custom",
+            "slug": "custom",
+            "description": "Custom channel",
+            "type": "custom",
+            "active": false,
+            "background": null,
+            "logo": null,
+            "createdAt": 1623925993835
+        }
+    ]
+}
